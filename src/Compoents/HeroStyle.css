@@ -1,0 +1,10 @@
+.hero{
+    background-image: url("../assets//background-1.jpg");
+    background-repeat: no-repeat;
+   
+    top: 200px;
+  
+    z-index: -99999999;
+    width: 100%;
+  
+}
